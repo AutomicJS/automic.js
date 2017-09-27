@@ -4,7 +4,7 @@
  * @author Automic.js
  * @copyright 2017
  * @license MIT
- * @github https://AutomicJS/automic.js
+ * @github https://github.com/AutomicJS/automic.js
  * @version 0.0.1
  */
 class Automic {
